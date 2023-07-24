@@ -1,0 +1,22 @@
+--- text_a.txt
++++ text_b.txt
+@@ -1,4 +1,4 @@
+-1. Dominique X. Henry  
++1. Dominique Henry  
+ 2. Lynda Rose  
+ 3. Tanya Rush  
+ 4. Lilly Horne  
+@@ -12,11 +12,11 @@
+ 12. Zack Stein  
+ 13. Henrietta Valenzuela  
+ 14. Arturo Singh  
+-15. Tiffany Turner  
++15. Tiffany J. Turner  
+ 16. Alexandra Walker  
+ 17. Shane Webster  
+ 18. Waldo Ayala  
+-19. J. Horn  
++19. Jeffrey Horn  
+ 20. Jorge Hardin  
+ 21. Kirby Barton  
+ 22. Maryann Pacheco  
